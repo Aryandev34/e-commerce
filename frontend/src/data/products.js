@@ -1,8 +1,8 @@
 export const categories = [
-  { slug: 'crop-protection', name: 'Crop protection', short: 'Crop care', icon: 'sprout', count: '24 essentials', tint: 'sage' },
-  { slug: 'animal-health', name: 'Animal health', short: 'Animal care', icon: 'cow', count: '18 essentials', tint: 'peach' },
-  { slug: 'plant-nutrition', name: 'Plant nutrition', short: 'Plant nutrition', icon: 'leaf', count: '16 essentials', tint: 'butter' },
-  { slug: 'farm-supplies', name: 'Farm supplies', short: 'Farm supplies', icon: 'sun', count: '32 essentials', tint: 'blue' },
+  { slug: 'crop-protection', name: 'Crop protection', short: 'Crop care', icon: 'sprout', count: '3 essentials', tint: 'sage' },
+  { slug: 'animal-health', name: 'Animal health', short: 'Animal care', icon: 'cow', count: '2 essentials', tint: 'peach' },
+  { slug: 'plant-nutrition', name: 'Plant nutrition', short: 'Plant nutrition', icon: 'leaf', count: '2 essentials', tint: 'butter' },
+  { slug: 'farm-supplies', name: 'Farm supplies', short: 'Farm supplies', icon: 'sun', count: '1 essential', tint: 'blue' },
 ];
 
 export const fallbackProducts = [
